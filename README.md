@@ -37,8 +37,6 @@ To play the game, execute the main method in `TTFE.java`. You can control the ga
 
 Tests are located in the `ttfe.tests` package. To run the tests, use the following command in your terminal:
 
-```bash
-java -cp . ttfe.tests.TestRunner
 
 License
 This project is for educational purposes and does not have a license. Please respect the university's guidelines regarding academic integrity.
